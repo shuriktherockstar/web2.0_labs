@@ -1,0 +1,35 @@
+body {
+    font-family: 'Inter Tight', sans-serif;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#wolf {
+    max-height: 200px;
+}
+
+.hidden-text {
+    background-color: whitesmoke;
+    color: whitesmoke;
+}
+
+.hidden-text:hover {
+    background-color: white;
+    color: black;
+}
+
+li {
+    list-style-type: square;
+}
+
+a {
+    color: mediumpurple;
+}
